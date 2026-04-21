@@ -1,5 +1,9 @@
 # About Me
 A Grade 10 student from China.Learning OI and playing Minecraft.
+
+I use Arch, btw.
+
+[my blog](https://froog.icu/)
 # Languages & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="45" title="Arch"/>
 
@@ -17,4 +21,4 @@ A Grade 10 student from China.Learning OI and playing Minecraft.
 ## DEAD
 Too many...
 # Todo
-- 5.21
+- [ ] 5.21: VERY IMPORTANT!!!
