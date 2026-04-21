@@ -1,5 +1,20 @@
-### Grade 10 student
-### OIer
-### C++
-### Minecrat
-### China
+# About Me
+A Grade 10 student from China.Learning OI and playing Minecraft.
+# Languages & Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="45" title="Arch"/>
+
+# repos
+## alive
+<p align="center">
+  <a href="https://github.com/OwnderDuck/L2K">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=L2K&theme=dark" height="120px" />
+  </a>
+  <a href="https://github.com/OwnderDuck/window-rotate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=window-rotate&theme=dark" height="120px" />
+  </a>
+</p>
+
+## DEAD
+Too many...
+# Todo
+- 5.21
