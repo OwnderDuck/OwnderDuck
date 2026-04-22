@@ -1,7 +1,7 @@
 # About Me
-A Grade 10 student from China.Learning OI and playing Minecraft.
+A Grade 10 student from China.Learning **C++** and playing Minecraft.
 
-I use Arch, btw.
+I use **Arch**, btw.
 
 [my blog](https://froog.icu/)
 # Languages & Tools
