@@ -7,6 +7,11 @@ I use Arch, btw.
 # Languages & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="45" title="Arch"/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwnderDuck&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OwnderDuck&show_icons=true&theme=dark&hide_border=true" height="165" />
+</p>
+
 # repos
 ## alive
 <p align="center">
