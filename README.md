@@ -22,12 +22,14 @@ I use Arch, btw.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=window-rotate&theme=dark" height="120px" />
   </a>
 </p>
+
 ## WORK
 <p align="center">
   <a href="https://github.com/OwnderDuck/CS61C-project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=CS61C-project2&theme=dark" height="120px" />
   </a>
 </p>
+
 ## DEAD
 Too many...
 # Todo
