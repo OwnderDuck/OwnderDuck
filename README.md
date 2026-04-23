@@ -12,7 +12,7 @@ I use **Arch**, btw.
   <img src="https://github-readme-stats.vercel.app/api?username=OwnderDuck&show_icons=true&theme=dark&hide_border=true" height="165" />
 </p>
 
-# REPO
+# Repositories
 ## ALIVE
 <p align="center">
   <a href="https://github.com/OwnderDuck/L2K">
