@@ -28,9 +28,6 @@ I use **Arch**, btw.
   <a href="https://github.com/OwnderDuck/CS61C-project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=CS61C-project2&theme=dark" height="120px" />
   </a>
-  <a href="https://github.com/OwnderDuck/FrOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=FrOS&theme=dark" height="120px" />
-  </a>
 </p>
 
 ## DEAD
