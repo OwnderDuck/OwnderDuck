@@ -14,23 +14,12 @@ I use **Arch**, btw.
 
 # Repositories
 ## ALIVE
-<p align="center">
-  <a href="https://github.com/OwnderDuck/L2K">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=L2K&theme=dark" height="120px" />
-  </a>
-  <a href="https://github.com/OwnderDuck/window-rotate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=window-rotate&theme=dark" height="120px" />
-  </a>
-</p>
+https://github.com/OwnderDuck/L2K
+
+https://github.com/OwnderDuck/window-rotate
 
 ## WORK
-<p align="center">
-  <a href="https://github.com/OwnderDuck/CS61C-project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OwnderDuck&repo=CS61C-project2&theme=dark" height="120px" />
-  </a>
-</p>
+https://github.com/OwnderDuck/CS61C-project2
 
 ## DEAD
 Too many...
-# Todo
-- [ ] 5.21: VERY IMPORTANT!!!
