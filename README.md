@@ -9,14 +9,15 @@ I use **Arch**, btw.
 
 # Repositories
 ## Still Alive
-https://github.com/OwnderDuck/RE-Aperture-Terminal-2007
+- [L2K](https://github.com/OwnderDuck/L2K): See your system metrics on your keyboard LEDs.
+- [RE-Aperture-Terminal-2007](https://github.com/OwnderDuck/RE-Aperture-Terminal-2007): A C++ reimplementation of the Aperture Science Terminal originally hosted on [aperturescience.com](https://aperturescience.com) in 2007.
+- [window-rotate](https://github.com/OwnderDuck/window-rotate): A Gnome extension designed to **rotate windows**.
+- [ownderduck.github.io](https://github.com/OwnderDuck/ownderduck.github.io): My [blog](https://froog.icu)'s [mirror](https://ownderduck.github.io).
+- [MyBlog](https://github.com/OwnderDuck/MyBlog): My blog's backup.
+- [RE-Aperture-Terminal-2007-Web](https://github.com/OwnderDuck/RE-Aperture-Terminal-2007-Web): Use [opencode](https://opencode.ai/) to make a website.
 
-https://github.com/OwnderDuck/L2K
+## Work
+- [CS61C-project2](https://github.com/OwnderDuck/CS61C-project2): Learn RISC-V.
 
-https://github.com/OwnderDuck/window-rotate
-
-## WORK
-https://github.com/OwnderDuck/CS61C-project2
-
-## DEAD
-Too many...
+## Trash
+- [trash](https://github.com/OwnderDuck/trash): trashs.
